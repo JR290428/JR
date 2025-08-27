@@ -5,9 +5,9 @@ body {
   text-align: center;
 }
 .container { padding: 20px; }
-.monograma { width: 150px; margin-top: 20px; }
-.nomes { font-family: 'Brush Script MT', cursive; font-size: 24px; color: #4a6b51; }
-.data { font-size: 28px; margin-bottom: 20px; }
+.monograma { width: 200px; margin-top: 20px; }
+.nomes { font-family: 'Brush Script MT', cursive; font-size: 40px; color: #4a6b51; }
+.data { font-size: 32px; margin-bottom: 20px; }
 .btn {
   display: inline-block;
   margin: 10px;
