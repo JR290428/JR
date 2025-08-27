@@ -1,0 +1,26 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0; padding: 0;
+  background: #ffffff; color: #333;
+  text-align: center;
+}
+.container { padding: 20px; }
+.monograma { width: 150px; margin-top: 20px; }
+.nomes { font-family: 'Brush Script MT', cursive; font-size: 24px; color: #4a6b51; }
+.data { font-size: 28px; margin-bottom: 20px; }
+.btn {
+  display: inline-block;
+  margin: 10px;
+  padding: 12px 20px;
+  background: #4a6b51; color: white;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 16px;
+}
+.btn:hover { background: #3d5743; }
+.countdown { display: flex; justify-content: center; gap: 15px; margin: 20px 0; }
+.countdown div { background: #4a6b51; color: white; padding: 15px; border-radius: 8px; }
+.galeria img { width: 250px; margin: 10px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.2); }
+.cronograma { list-style: none; padding: 0; font-size: 18px; margin: 20px 0; }
+.hero-img { width: 100%; height: auto; }
+.msg { font-size: 18px; color: #4a6b51; margin-top: 20px; }
